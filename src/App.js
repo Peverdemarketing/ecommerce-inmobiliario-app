@@ -10,6 +10,7 @@ import Townhouse from './components/Townhouse.js';
 function App() {
   return (
     <>
+
     <Navbar/>
     <Casas/>
     <Departamentos/>
