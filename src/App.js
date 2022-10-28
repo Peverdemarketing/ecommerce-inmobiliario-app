@@ -15,9 +15,8 @@ function App() {
     <Departamentos/>
     <Edificios/>
     <Townhouse/>
-
     </>
   );
 }
 
-export default App;
+export default App; 
