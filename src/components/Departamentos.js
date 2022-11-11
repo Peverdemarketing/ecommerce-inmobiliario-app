@@ -8,7 +8,7 @@ const Departamentos = () => {
         <p>Tenemos disposibles más de 10 departamentos en las principales comunas de Santiago.</p>
         <img src='https://peverdemarketing.com/wp-content/uploads/2022/10/Departamentos-1.png'></img>
         <br></br>
-        <button> Ver precio</button>
+        <button> Más información</button>
     </div>
   )
 }

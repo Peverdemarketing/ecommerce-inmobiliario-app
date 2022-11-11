@@ -10,7 +10,7 @@ const Casas = () => {
         <p>Nuevas casas en Región Metropolitana</p>
         <img src='https://peverdemarketing.com/wp-content/uploads/2022/10/Casas-1.png' alt='casas-disponibles' ></img>
         <br></br>
-        <a href='/'>Comprar</a>
+        <a href='/'>Más información</a>
 
     </div>
     </>

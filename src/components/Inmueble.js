@@ -5,7 +5,7 @@ const Inmueble = ({titulo, imagenInmueble, subtitulo}) => {
         <p>{subtitulo}</p>
         <img src={imagenInmueble} alt={titulo}></img>
         <br></br>
-        <a href='/'>Comprar</a>
+        <a href='/'>Más información</a>
     </div> 
     )
 }
