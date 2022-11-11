@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
 import BurgerButton from './BurgerButton'
+import Logo from './Logo';
 function Navbar() {
     
   const [toggle, setToggle] = useState(false);
@@ -9,7 +10,14 @@ function Navbar() {
   }
   return (
     <>
+
+       
+    <div>
+        
+    
+    
     <NavContainer>
+    <Logo/>   
         <h2>Inmuebles Ecommerce</h2>
         <div id='menu'>
             <ul className='nav-bar-inmueble' onClick={handleToggle}>
@@ -23,6 +31,7 @@ function Navbar() {
         <div className='burguer'><BurgerButton/></div>
         
     </NavContainer>
+    </div>
     </>
   )
 }
