@@ -1,4 +1,5 @@
 import Inmueble from "./Inmueble"
+import Credito from "./Credito"
 
 function GridInmuebles() {
     return (
@@ -22,7 +23,9 @@ function GridInmuebles() {
             titulo="Casa en Chicureo"
             subtitulo="Proyecto Aires Chicureo: 7 dormitorios, y 2 baños."
             imagenInmueble= "https://peverdemarketing.com/wp-content/uploads/2022/11/Chicureo.png"
-            />     
+            />
+
+            <Credito/>     
         </div>
     )
 }
