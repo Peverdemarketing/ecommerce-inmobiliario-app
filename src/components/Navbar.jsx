@@ -21,10 +21,13 @@ function Navbar() {
         <h2>Inmuebles Ecommerce</h2>
         <div id='menu'>
             <ul className='nav-bar-inmueble' onClick={handleToggle}>
-            <a href='/Casas.js'>Casas</a>
-            <a href='/Departamentos.js'>Departamentos</a>
-            <a href='/Townhouse.js'>Townhouse</a>
-            <a href='/Edificios.js'>Edificios</a>
+            <a href='/'>Home</a>
+            <a href='/Categorias/Casas.js'>Casas</a>
+            <a href='/Categorias/Departamentos.js'>Departamentos</a>
+            <a href='/Categorias/Townhouse.js'>Townhouse</a>
+            <a href='/Categorias/Edificios.js'>Edificios</a>
+            <a href='/Categorias'>Categorias</a>
+            <a href='/Cart.js'> Carrito </a>
             </ul>
         </div>
 

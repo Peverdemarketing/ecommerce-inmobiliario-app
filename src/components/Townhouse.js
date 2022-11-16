@@ -7,7 +7,7 @@ const Townhouse = () => {
         <p>La busqueda de mayor espacio y contacto con la naturaleza caracteriza a quienes deciden por Townhouses </p>
         <img src='https://peverdemarketing.com/wp-content/uploads/2022/10/Tonwhouse-1.png'></img>
         <br></br>
-        <a href='/'>Comprar</a>
+        <a href='/'>Más información</a>
     </div>
   )
 }

@@ -29,7 +29,7 @@ class Credito extends Component {
                <div></div>
                <input type="submit" name="submit" value="Calcular Crédito"/>
                <div></div>
-               <span>El Banco te aprobaría un crédito aproxímadamente de {this.renta * 60}</span>
+               <span>El Banco te aprobaría un crédito aproxímadamente de {this.state.renta * 60}</span>
                 
             </form>
             </>
