@@ -1,0 +1,48 @@
+.texto-carrito {
+    color: red;
+    font-size: 20px;
+}
+
+.compra-texto {
+    color: blue;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+
+.realizar-compra-div {
+    align-items: right;
+    display: flex;
+    position: static;   
+}
+
+
+.realizar-compra {
+    justify-content: right;
+    color: blue;
+    align-items: right;
+    display: flex;
+    position:relative; 
+    right: -200px;
+    font-size: 60px;
+    background-color: aqua;
+    border-radius: 15px;
+    text-decoration: none;
+
+}
+
+.seccion-carrito-vacio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.seccion-dos-carrito-de-compra {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -500;
+    border-right: 100px;
+
+}

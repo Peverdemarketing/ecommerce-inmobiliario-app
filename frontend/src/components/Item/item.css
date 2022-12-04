@@ -1,0 +1,17 @@
+.inmueble {
+  display: block;
+  width: 300px;
+  flex-wrap: wrap;
+}
+
+.inmueble img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.inmueble {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
