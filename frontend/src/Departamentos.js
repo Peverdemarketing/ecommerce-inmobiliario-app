@@ -13,7 +13,7 @@ function Departamentos() {
     <div>
     <h1> Departamentos de Inversión</h1>
     <div>
-    <p>Descubre los inmuebles que Tenemos disposibles para ti que representan excelentes oportunidades de inversión en las principales comunas de Santiago.</p>
+    <p>Descubre los inmuebles que Tenemos disponibles para ti que representan excelentes oportunidades de inversión en las principales comunas de Santiago.</p>
     </div>
     <div>
     <img src='https://peverdemarketing.com/wp-content/uploads/2022/10/Departamentos-1.png'></img>
